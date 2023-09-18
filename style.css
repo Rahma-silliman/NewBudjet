@@ -1,0 +1,49 @@
+.title{
+    text-transform: capitalize;
+}
+.titre{
+    text-transform: uppercase;
+}
+body{
+    background-color:hsl(0,0%,90.98%) ;
+}
+form{
+    background-color: hsl(0,0%,90.98%);
+}
+button{
+   color: hsl(0,0%,90.98%);
+}
+.history{
+    background-color: hsl(0,0%,90.98%);
+}
+.color{
+    border: 1 px solid #1e616f;
+  
+}
+.ajout{
+    background-color:hsl(182.86,27.04%,54.31%) ;
+    color: white;
+}
+.succes{
+    background-color: white;
+   
+}
+.hidden{
+    display: none;
+}
+table{
+    border-radius: 15px;
+}
+.icon{
+    margin-right: 1rem;
+}
+.erreur{
+left: 35rem;
+top: 24.7rem;
+}
+#depence{
+    top: 1rem;
+}
+.btn{
+    --bs-btn-padding-x: 0rem;
+}
